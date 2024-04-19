@@ -1,0 +1,8 @@
+Eu iniciei o projeto dividindo cada critério descrito no PDF em tarefas.
+O primeiro passo foi montar uma estrutura básica para conduzir o
+funcionamento do sistema de acordo com a opção escolhida pelo usuário. Seguindo o mesmo princípio, criei os métodos vazios para mais tarde armazenar os algoritmos de ordenação. Essa parte foi a mais simples e mais básica.
+Em seguida elaborei um algoritmo básico para solicitar ao usuário o preenchimento dos vetores. Utilizei a mesma estrutura em todos os métodos de ordenação, para padronizar.
+Após esse passo iniciei os algoritmos de ordenação.
+Começando com o método por inserção, apenas consultando os slides e o exercício desenvolvido em sala, já foi suficiente para compreender a dinâmica. Porém no momento de aplicação, por se tratar de uma ArrayList, alguns comandos mudaram e foi necessária a chamada de alguns métodos como os getters e setters que só foram passados nas aulas de Programação Orientada à Objetos, fazendo com que eu tivesse que consultar mais materiais.
+Em seguida construí o método de ordenação por seleção, que foi um pouco mais complicado de desenvolver pois não localizei os slides referentes à esse algoritmo, passei mais tempo desenvolvendo ele do que os demais. Não houve dificuldade com a sintaxe na manipulação de Arrays pois eu havia conseguido desenvolver bem no primeiro exercício.
+Por último
